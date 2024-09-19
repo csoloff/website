@@ -1,11 +1,11 @@
 site_name: Website
 site_description: Tell people what this website is about
 site_author: Who you are
-site_url: 'https://csoloff.github.io/website/'
+site_url: 'https://csoloff.github.io/website'
 
 # Repository
 repo_name: The repository name
-repo_url: 'https://github.com/CosiMichele/FOSSF24-tutorial'
+repo_url: 'https://github.com/csoloff/website'
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 - 2025'
