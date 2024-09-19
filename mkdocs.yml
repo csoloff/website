@@ -51,7 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- CV: soloff_cv.pdf
 - DMP: dmp.md
 
 # Extra Plugins
