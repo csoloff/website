@@ -1,14 +1,14 @@
 site_name: Name of your website
 site_description: Tell people what this website is about
 site_author: Who you are
-site_url: 'https://foss.cyverse.org'
+site_url: 'https://csoloff.github.io/website/'
 
 # Repository
 repo_name: The repository name
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_url: 'https://github.com/csoloff/website'
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024'
+copyright: 'Copyright &copy; 2024 - 2025'
 
 
 # Configuration
