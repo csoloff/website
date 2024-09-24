@@ -1,0 +1,4 @@
+# Cassidy Soloff, M.S.
+
+## bio
+Cassidy Soloff is a PhD student in Atmospheric Science. He grew up in New York City and went on to attend Wesleyan University where he got a bachelor’s in physics and astronomy in 2022. Following an internship in NASA’s Student Airborne Research Program (SARP), Soloff decided to pursue atmospheric science research at the University of Arizona earning a master’s in 2024. Under his advisor Dr. Armin Sorooshian, Soloff studies aerosols and trace gases. In the summer of 2024, Soloff researched at Pituffik Space Base, Greenland as part of NASA’s Arctic Radiation Cloud Aerosol Surface Interaction Experiment (ARCSIX) mission. He was on the team running the Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) on the P-3 Orion aircraft. DASH-SP measures the optical and growth properties of aerosol particles.
